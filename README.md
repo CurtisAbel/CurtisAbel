@@ -6,9 +6,9 @@ About
 
 📚BSc Computer Science
 
-👨🏻‍💻Product Developer at AND Digital - Full-Time - React, Typescript, AWS
+👨🏻‍💻Product Developer at [AND Digital](https://www.and.digital/)
 
-🔮Web3 Developer on Cardano Blockcahin at Flickto - Part-Time - NodeJS
+🔮Web3 Developer at [Flickto](https://www.flickto.io/)
 
 🔨Currently Working in HTML, CSS, Javasript and React
 
