@@ -1,16 +1,20 @@
-### Hi there 👋
+A Front-End developer, looking to transition into a fullstack Developer. Currently using technologies such as HTML, CSS, Javasript, React.
 
-<!--
-**CurtisAbel/CurtisAbel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Goal: get good with web2 technologies (HTML, CSS, Javascript, React, NodeJS, ExpressJS, MySQL, MongoDB), to then transition to web3 (Solidity/JS).
 
-Here are some ideas to get you started:
+About
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📚BSc Computer Science
+
+👨🏻‍💻Product Developer at AND Digital - Full-Time - React, Typescript, AWS
+
+🔮Web3 Developer on Cardano Blockcahin at Flickto - Part-Time - NodeJS
+
+🔨Currently Working in HTML, CSS, Javasript and React
+
+Connect With me: 
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/linkedin.svg" />
+<img height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/linkedin.svg" />
+
+Languages and Tools:
+
