@@ -13,8 +13,11 @@ About
 🔨Currently Working in HTML, CSS, Javasript and React
 
 Connect With me: 
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/linkedin.svg" />
-<img height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/linkedin.svg" />
+
+<a href="www.linkedin.com/in/curtis-lavaud-88615b155"> <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/linkedin.svg" /></a>
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/twitter.svg" />
+
+
 
 Languages and Tools:
 
