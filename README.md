@@ -14,7 +14,7 @@ About
 
 Connect With me: 
 
-<a href="www.linkedin.com/in/curtis-lavaud-88615b155"> <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/linkedin.svg" /></a>
+<a href="www.linkedin.com/in/curtis-lavaud-88615b155"><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/linkedin.svg"></a>
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/twitter.svg" />
 
 
