@@ -14,10 +14,10 @@ About
 
 Connect With me: 
 
-<a href="www.linkedin.com/in/curtis-lavaud-88615b155"><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/linkedin.svg"></a>
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/linkedin.svg">
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/twitter.svg" />
 
 
 
 Languages and Tools:
-https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
