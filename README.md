@@ -8,8 +8,6 @@ About
 
 👨🏻‍💻Product Developer at [AND Digital](https://www.and.digital/)
 
-🔮Web3 Developer at [Flickto](https://www.flickto.io/)
-
 🔨Currently Working in HTML, CSS, Javasript and React
 
 Connect With me:
