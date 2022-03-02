@@ -4,9 +4,9 @@ Goal: get good with web2 technologies (HTML, CSS, Javascript, React, NextJS, Nod
 
 About
 
-📚BSc Computer Science
+📚 BSc Computer Science
 
-👨🏻‍💻Product Developer at [AND Digital](https://www.and.digital/)
+👨🏻‍💻 Product Developer at [AND Digital](https://www.and.digital/)
 
 🔨Currently Working in HTML, CSS, Javascript and React
 
