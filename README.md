@@ -1,22 +1,27 @@
-A Front-End developer, looking to transition into a fullstack Developer. Currently using technologies such as HTML, CSS, Javasript, React.
+# Hello, I'm Curtis! 👋
 
-About
+![GitHub followers](https://img.shields.io/github/followers/Dean998?label=Follow&style=social) 
 
-📚 BSc Computer Science
+I am a full-stack developer with over 4 years of experience delivering scalable web & mobile applications across React, Node.js, and TypeScript. Known for picking up enterprise codebases fast, being a great mentor, and driving team efficiency through thoughtful collaboration, I lead by example, communicate with clarity, and consistently ship clean, production ready code.
 
-👨🏻‍💻 Product Developer at [AND Digital](https://www.and.digital/)
+## 🛠️ Technologies & Tools
 
-🔨Currently Working with HTML, CSS / SASS, Javascript, React, Next.JS, GraphQL and Typescript
+- **Languages:** JavaScript, TypeScript, Node.js, Python, Java
+- **Frameworks:** React, NextJS, ExpressJS
+- **Databases:** SQL, MongoDB, Postgres
+- **Testing:** Jest, React Testing Library, Cypress, Junit
+- **Cloud:** AWS
+- **Others:** GitHub, Git, CI/CD, Docker
 
-Languages and Tools:
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code> 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code> 
+> 💼 If you have a project that you want to get started or need help with an existing project, feel free to [reach out](mailto:curtislavaud@outlook.com)!
+
+## 📈 GitHub Stats
+![Curtis's GitHub Stats](https://github-readme-stats.vercel.app/api?username=CurtisAbel&show_icons=true&theme=transparent)
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=CurtisAbel&theme=matrix&margin-w=15&margin-h=15&column=7" alt="CurtisAbel" /></a> </p>
+## 📣 Let's connect!
+- [LinkedIn](https://www.linkedin.com/in/curtis-lavaud-88615b155/)
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=CurtisAbel&show_icons=true&theme=chartreuse-dark" alt="DMJ's github stats" /></a> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CurtisAbel&layout=compact&theme=chartreuse-dark" /></a> |
-| ------------- | ------------- |
+---
+
+⭐️ From [CurtisAbel](https://github.com/CurtisAbel)
