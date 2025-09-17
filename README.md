@@ -16,7 +16,7 @@ I am a full-stack developer with over 4 years of experience delivering scalable 
 > 💼 If you have a project that you want to get started or need help with an existing project, feel free to [reach out](mailto:curtislavaud@outlook.com)!
 
 ## 📈 GitHub Stats
-![Curtis's GitHub Stats](https://github-readme-stats.vercel.app/api?username=CurtisAbel&show_icons=true&theme=transparent)
+![Curtis's GitHub Stats](https://github-readme-stats-tan-three-92.vercel.app/api?username=CurtisAbel&show_icons=true&theme=transparent)
 
 
 ## 📣 Let's connect!
